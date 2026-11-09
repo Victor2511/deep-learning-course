@@ -16,7 +16,7 @@ El objetivo de este portafolio es demostrar la comprensión matemática y la imp
 * **Curso:** Curso completo de Deep Learning: de la neurona a la red
 * **Instructor:** Santiago Hernández
 * **Estado:** Completado 
-* **Certificado:** *[Enlace al certificado de finalización de Udemy]*
+* **Certificado:** 
 
 ---
 
